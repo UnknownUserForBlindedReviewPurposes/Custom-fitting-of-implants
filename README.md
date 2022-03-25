@@ -4,5 +4,5 @@ Intracranial neurophysiological recordings require chronic implants to provide t
 
 This repository provides a detailed step-by-step tutorial to design and custom-fit implants. The main PDF document 'EDT_Tutorial_ReadMe' will guide you through the individual steps, which are completed by video tutorials indicated in red.
 
-Link to full paper on biorxiv: https://www.biorxiv.org/content/10.1101/2022.01.22.475298v1
-Citation: DOI https://doi.org/10.1101/2022.01.22.475298
+Link to full paper : xxx
+Citation: DOI xxx
